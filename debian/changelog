@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-tsosunchia-powclient (0.1.4-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Chang Yang <yangchang@deepin.org>  Thu, 12 Oct 2023 18:11:41 +0800
